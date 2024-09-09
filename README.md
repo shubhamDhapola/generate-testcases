@@ -36,6 +36,6 @@ The Groq API is used to generate the testing guide based on the combined prompt 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/app-feature-testing-guide-generator.git
-   cd app-feature-testing-guide-generator
+   git clone https://github.com/shubhamDhapola/generate-testcases.git
+   cd generate-testcases
 pip install -r requirements.txt
